@@ -1,3 +1,5 @@
 {
-    "liveServer.settings.port": 5502
+    "liveServer.settings.port": 5502,
+    "appService.defaultWebAppToDeploy": "/subscriptions/e46be90e-c580-4c8c-a01f-3c2b689b69c8/resourceGroups/appsvc_linux_westus2_basic/providers/Microsoft.Web/sites/oilop360",
+    "appService.deploySubpath": "."
 }
